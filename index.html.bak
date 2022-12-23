@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="hu">
+<head>
+	<title>hátterek</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<h1>Üdv</h1>
+<h2>ha szeretnél szép háttérképeket akkor jó helyen jársz <h2>
+<h3>letöltéshez jobb kattintás ,kép megnyitása új lapon ,kobb kattintás a képre és mentés másként</h3>
+</h1>  </h1>
+<h2>nézz körül</h2>
+<h1>tél</h1>
+<img src="pics/tel.jfif">
+<img src="pics/tel..jfif">
+<img src="pics/tel...jfif">
+<img src="pics/megegy.jfif">
+<img src="pics/facebookprofilhatter....jfif">
+<img src="pics/szep.jpg">
+<h1>nyár</h1>
+<img src="pics/nyar1.jfif"
+<img src="pics/nyar2.jfif"
+<img src="pics/nyar3.jfif"
+</body>
+</html>

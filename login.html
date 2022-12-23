@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="hu">
+<head>
+	<title>E-llenörző</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="kozep">
+    <div id="feher">
+        <div id="mharom">
+            <form onsubmit="myfunc(event)">
+            <br><br><br><br>
+<h1>Regisztráció</h1>
+<div>
+    <label>Név</label>
+    <input type="text" id="nev" required/>
+</div>
+<br>
+<div>
+    <label>E-mail✉️</label>
+    <input type="email" id="email" required/>
+</div>
+<br>
+<div>
+    <label>Jelszó</label>
+    <input type="password" id="jelszo" required/>
+</div>
+<br>
+
+<div>
+    <label">Osztály</label>
+    <input type="number" id="osztaly" required>
+</div>
+<br>
+<div>
+    <label>Intézmény</label>
+    <input type="text" intezmeny required>
+</div>
+<div>
+    <input type="radio" name="fiú" id="nem" required/> fiú
+    <input type="radio" name="lány" /> lány
+</div>
+<input type="submit" value="Regisztráció" id="reg"/>
+</form>
+
+</div></div></div>
+<script src="scripts.js"></script>
+</body>
+</html>
